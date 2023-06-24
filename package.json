@@ -1,0 +1,23 @@
+{
+  "name": "racemanager",
+  "version": "1.0.0",
+  "description": "a race manager tool",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulthesoftwareengineer/RaceManager.git"
+  },
+  "keywords": [
+    "race",
+    "manager"
+  ],
+  "author": "Paul Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulthesoftwareengineer/RaceManager/issues"
+  },
+  "homepage": "https://github.com/paulthesoftwareengineer/RaceManager#readme"
+}
